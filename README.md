@@ -58,7 +58,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/pedrobme/pedrobme/blob/output/snake.svg" alt="Snake animation" />
-
-###
