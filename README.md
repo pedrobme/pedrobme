@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://i.ibb.co/rcnrXVF/Design-sem-nome-1.png"  />
+  <img style="width: 350px; height: auto; object-fit: cover;" src="https://i.ibb.co/rcnrXVF/Design-sem-nome-1.png"  />
 </div>
 
 ###
