@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">My name is Pedro Holanda, and I'm a Full-Stack Web Developer from Rio de Janeiro. I am passionate about staying up-to-date with emerging technologies and constantly improving my skills. My dedication to teamwork, problem-solving, and creativity allows me to approach every challenge with enthusiasm and a fresh perspective. With a strong foundation in web development, I am eager to leverage my knowledge and collaborate with others to deliver exceptional results.
+<h3 align="left">My name is Pedro Holanda, and I'm a Full-Stack Web Developer. I am passionate about staying up-to-date with emerging technologies and constantly improving my skills. My dedication to teamwork, problem-solving, and creativity allows me to approach every challenge with enthusiasm and a fresh perspective. With a strong foundation in web development, I am eager to leverage my knowledge and collaborate with others to deliver exceptional results.
 </h3>
 
 ###
